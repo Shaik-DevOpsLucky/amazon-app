@@ -1,4 +1,4 @@
-# Cloning Amazon site with HTML & CSS
+# Deploy Amazon site with Docker
 
 1. Install docker
 2. Build the docker image
